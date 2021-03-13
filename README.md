@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Swift, SwiftUI, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-     Email: jayashankar2904@gmail.com
+     Email: <jayashankar2904@gmail.com>
      LinkedIn: [JayaShankar Mangina](https://www.linkedin.com/in/jayashankarmangina/)
 
 <!---
