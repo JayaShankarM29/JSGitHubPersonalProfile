@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @JayaShankarM29
+- 👋 Hi, I’m JayaShankar Mangina [@JayaShankarM29](https://github.com/JayaShankarM29)
+- ![My Image](/IMG_2840.jpg)
 - 👀 I’m interested in iOS, Android, Web Development and CyberSecurity
 - 🌱 I’m currently learning Swift, SwiftUI, HTML, CSS and JavaScript
 - 💞️ I’m looking to collaborate on ...
