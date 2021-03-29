@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in iOS, Android, Web Development and CyberSecurity
 - 🌱 I’m currently learning Swift, SwiftUI, HTML, CSS and JavaScript
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on N/A
 - 📫 How to reach me : 
      Email: <jayashankar2904@gmail.com>
      LinkedIn: [JayaShankar Mangina](https://www.linkedin.com/in/jayashankarmangina/)
