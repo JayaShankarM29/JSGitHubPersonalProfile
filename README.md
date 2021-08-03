@@ -4,11 +4,11 @@
 
 - 👀 I’m interested in iOS , Web Development 🌐 and CyberSecurity 🕵️‍♂️
 - 🌱 I’m currently learning Swift , SwiftUI, Data Structures and Algorithms
-- To Reach Me :
+- 📫 Contact:
 
-     Email 📫 : <jayashankar2904@gmail.com>
+     Email: <jayashankar2904@gmail.com>
      
-     LinkedIn 👨‍💻: [JayaShankar Mangina](https://www.linkedin.com/in/jayashankarmangina/)
+     LinkedIn: [JayaShankar Mangina](https://www.linkedin.com/in/jayashankarmangina/)
 
 <!---
 JayaShankarM29/JayaShankarM29 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
