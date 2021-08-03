@@ -2,8 +2,8 @@
 
      ![My Image](/IMG_2840.jpg)
 
-- 👀 I’m interested in iOS , Web Development 🌐 and CyberSecurity 🕵️‍♂️
-- 🌱 I’m currently learning Swift , SwiftUI, Data Structures and Algorithms
+- 👀 Interested: iOS , Web Development 🌐 and CyberSecurity 🕵️‍♂️
+- 🌱 Learning:   Swift , SwiftUI, Data Structures and Algorithms
 - 📫 Contact:
 
      Email: <jayashankar2904@gmail.com>
