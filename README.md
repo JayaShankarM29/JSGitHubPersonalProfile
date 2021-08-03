@@ -2,7 +2,7 @@
 
      ![My Image](/IMG_2840.jpg)
 
-- 👀 Interested: iOS , Web Development 🌐 and CyberSecurity 🕵️‍♂️
+- 👀 Interested: iOS Development , Web Development 🌐 and CyberSecurity 🕵️‍♂️
 - 🌱 Learning:   Swift , SwiftUI, Data Structures and Algorithms
 - 📫 Contact:
 
